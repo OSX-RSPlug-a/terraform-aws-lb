@@ -1,2 +1,2 @@
 # terraform-aws-lb
-Creatin Load balancer on AWS
+Creating Load balancer on AWS
